@@ -13,7 +13,7 @@ Customer Interaction chatbot using NLP and tensorflow and keras.
 
 ### Running application
 - python run chatbot.py on local terminal
- <img src="https://user-images.githubusercontent.com/84242964/167157562-accc8302-d2dd-4f8d-98bc-561f19c1eac1.png" width="600" height="500">
+ <img src="https://user-images.githubusercontent.com/84242964/167158301-64c559ac-e350-43b6-9979-713712dbeb63.png" width="800" height="200">
 
 
 ## UI
