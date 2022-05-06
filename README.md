@@ -13,5 +13,8 @@ Customer Interaction chatbot using NLP and tensorflow and keras.
 
 ## UI
 
-![image](https://user-images.githubusercontent.com/84242964/167157562-accc8302-d2dd-4f8d-98bc-561f19c1eac1.png)
+ <img src="https://user-images.githubusercontent.com/84242964/167157562-accc8302-d2dd-4f8d-98bc-561f19c1eac1.png" width="600" height="500">
+ 
+ 
+
 
