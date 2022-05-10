@@ -9,7 +9,8 @@ Customer Interaction chatbot using NLP and tensorflow and keras.
 - chabot.ipynb : python file for generating train data and modeling
 - chatbot_flask.py : flask server
 - requirements.txt : all libraries
-- style.css & index.html for creating UI refered from: https://buffml.com/web-based-chatbot-using-flask-api/ 
+- style.css & index.html for creating UI refered from
+- Reference : https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
 
 ### Running application
 - python run chatbot.py on local terminal
