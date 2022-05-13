@@ -22,5 +22,14 @@ Customer Interaction chatbot using NLP and tensorflow and keras.
  <img src="https://user-images.githubusercontent.com/84242964/167157562-accc8302-d2dd-4f8d-98bc-561f19c1eac1.png" width="600" height="500">
  
  
+ ## CICD pipeline
+ <img src="https://user-images.githubusercontent.com/84242964/168303547-5f0c7377-23e7-41da-a1c9-e4dd76893b7f.png" width="900" height="200">
+ 
+
+<img src="https://user-images.githubusercontent.com/84242964/168303585-5257f969-a7e8-4960-a1a2-386954857447.png" width="500" height="400">
+
+
+ 
+ 
 
 
